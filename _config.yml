@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Astroversary                              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 
+app_description                           : That one app that reminds you of birthdays and the presents you want to gift, so you don't forget them.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,7 +39,7 @@ features                                  :
 
   - title                                 : Birthdays
     description                           : Add all birthdays of your friends and family. 
-    fontawesome_icon_name                 : cake-candles
+    fontawesome_icon_name                 : gifts
 
   - title                                 : Import Contacts
     description                           : So it's easy to add all your contacts.
@@ -47,7 +47,7 @@ features                                  :
 
   - title                                 : Notifications
     description                           : Don't ever forget a birthday again. Just add the person and the date and you will be reminded.
-    fontawesome_icon_name                 : alarm-clock
+    fontawesome_icon_name                 : bell
 
   - title                                 : Widgets
     description                           : Add widgets to your homescreen to keep an eye on the next birthdays.
@@ -61,22 +61,22 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.6
 
 device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#FF9000"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
+feature_title_color                       : "#FF9000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#FF9000"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
