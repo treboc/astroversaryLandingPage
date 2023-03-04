@@ -37,6 +37,22 @@ features                                  :
     description                           : ... when you have them. No Need to scribble them down, just add them to the person you want.
     fontawesome_icon_name                 : magic
 
+  - title                                 : Birthdays
+    description                           : Add all birthdays of your friends and family. 
+    fontawesome_icon_name                 : cake-candles
+
+  - title                                 : Import Contacts
+    description                           : So it's easy to add all your contacts.
+    fontawesome_icon_name                 : address-card
+
+  - title                                 : Notifications
+    description                           : Don't ever forget a birthday again. Just add the person and the date and you will be reminded.
+    fontawesome_icon_name                 : alarm-clock
+
+  - title                                 : Widgets
+    description                           : Add widgets to your homescreen to keep an eye on the next birthdays.
+    fontawesome_icon_name                 : heart
+
 
 # Theme Settings
 topbar_color                              : "#000000"
