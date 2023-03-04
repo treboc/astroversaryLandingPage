@@ -5,7 +5,7 @@ inclue_in_header: false
 ---
 
 # Privacy Policy
-eightLttrs app don't collect, store, transmit or sell your data, except for data and analytics that apple provides for developers you decided to share.
+Astroversary app don't collect, store, transmit or sell your data, except for data and analytics that apple provides for developers you decided to share.
 
 If you contact us by email, your address will never be shared by us and only used to answer you.
 
